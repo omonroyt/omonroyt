@@ -5,7 +5,8 @@
 
 <h2> / About me! /</h2>
   
-- ⭐🧠 Currently studying on **GENERATION MX**
+- ⭐🧠 Currently studying on **GENERATION MX** 
+- ⭐🧠 Currently studying on **TripleTen** 
 - 🧑‍💻🚧 mostly working on **private repositories && projects**
 - 💪📖 a very passionate **student** working his way <br><br>
 <a href="https://www.linkedin.com/in/oscarmonroytellez ">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
