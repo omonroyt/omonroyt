@@ -12,9 +12,9 @@
 
 <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omonroyt&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=omonroyt&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omonroyt&layout=compact&custom_title=Languages%20I%20Use&title_color=f8333c" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omonroyt&layout=compact&custom_title=Languages%20I%20Use&title_color=f8333c" /> -->
 
 </div>
 
