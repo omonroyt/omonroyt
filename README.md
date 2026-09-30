@@ -1,21 +1,37 @@
-<h1 align="center">
-  Hi,
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  I'm <a href="https://github.com/omonroyt">Oscar Monroy</a>
-</h1>
+<h1 align="center">Oscar's Lab</h1>
+
+<p align="center">A little space for code, curiosity, and experiments.</p>
 
 <p align="center">
-    <img width="200" src="https://i.postimg.cc/BvbNbjdt/mydesign.png">
+  <img src="oscars-lab-banner.png" alt="A cozy coding desk with a small robot, warm lighting, and a few tools for the next experiment." width="100%" />
 </p>
 
-<div align="center">
+## Hey, I'm Oscar 👋
 
-<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+I enjoy building useful things and figuring out how they work.  
+Usually somewhere between backend, AI, and a new experiment.
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=omonroyt&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c" />
+### Things I enjoy building
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omonroyt&layout=compact&custom_title=Languages%20I%20Use&title_color=f8333c" /> -->
+- Small tools that solve everyday problems.
+- AI agents and useful automations.
+- APIs and the systems behind them.
 
-</div>
+### My toolbox
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&amp;logo=python&amp;logoColor=ffca72" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&amp;logo=openjdk&amp;logoColor=ffca72" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&amp;logo=typescript&amp;logoColor=b9a3e3" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&amp;logo=springboot&amp;logoColor=b9a3e3" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&amp;logo=postgresql&amp;logoColor=ffca72" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&amp;logo=docker&amp;logoColor=b9a3e3" alt="Docker" />
+</p>
+
+### On my workbench
+
+**🔨 In development · Tattoo studio automation**  
+Building an automated journey for tattoo studios, from attracting and managing leads to collecting deposits and booking appointments directly into each artist's calendar.
+
+**🌱 In planning · A smarter study companion**  
+Planning an app that uses an adaptive study algorithm to schedule spaced repetition for students, so they can focus on learning while their assistant handles the review schedule.
