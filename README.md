@@ -5,6 +5,12 @@
 <p align="center">
   <img src="oscars-lab-banner.png" alt="A cozy coding desk with a small robot, warm lighting, and a few tools for the next experiment." width="100%" />
 </p>
+<p align="center">
+  <a href="https://www.monroydev.tech">
+    <img src="https://img.shields.io/badge/See_my_portfolio-monroydev.tech-ffca72?style=for-the-badge&labelColor=161b22" alt="See my portfolio at monroydev.tech" />
+  </a>
+</p>
+
 
 ## Hey, I'm Oscar 👋
 
